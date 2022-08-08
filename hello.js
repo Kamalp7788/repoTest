@@ -5,6 +5,7 @@ const hello = () => {
   return (
     <View>
       <Text>hello</Text>
+    <Text>I love coffee</Text>
     </View>
   );
 };
